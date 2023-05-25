@@ -1,2 +1,2 @@
-This is sample text file in SET Lab 2 github repository
-Updated sample.txt
+You are under child branch
+This is sample.txt of child branch
